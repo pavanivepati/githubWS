@@ -23,4 +23,5 @@
 
 [google]("www.google.com")
 
-![suga](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmydramalist.com%2F66371-unforgettable-love%2Fcast&psig=AOvVaw3g-Diby5focOEZeggn3jw9&ust=1638008418478000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODq04LntfQCFQAAAAAdAAAAABAQ)
+![suga](https://i.mydramalist.com/ZwD31_5_c.jpg)
+
