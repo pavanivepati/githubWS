@@ -25,3 +25,40 @@
 
 ![suga](https://i.mydramalist.com/ZwD31_5_c.jpg)
 
+|S.NO|Name|Branch|Roll.Number|
+|----|----|------|----------------|
+|1|Siri|CSE|535|
+|2|Pavani|CSE|507|
+|3|sanju|CSE|603|
+|3|ambika|CSE|606|
+|3|nysh|CSE|670|
+
+# List
+
+## ODERED LIST
+
+1. NAME
+2. ROLL.NUMBER
+3. BRANCH
+4. COLLEGE
+
+## UNODERED LIST
+
+- NAME 
+- ROLL.NUMBER
+- BRANCH
+- COLLEGE
+
+* Name
+* Roll.Number
+* Branch
+
+## NESTED LIST
+1. Name
+    1. First Name
+    2. Last Name
+
+2. Github
+    1. User Name
+    2. Email Id
+    3. Password
