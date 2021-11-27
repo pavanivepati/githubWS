@@ -30,8 +30,8 @@
 |1|Siri|CSE|535|
 |2|Pavani|CSE|507|
 |3|sanju|CSE|603|
-|3|ambika|CSE|606|
-|3|nysh|CSE|670|
+|4|ambika|CSE|606|
+|5|nysh|CSE|670|
 
 # List
 
